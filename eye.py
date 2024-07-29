@@ -5,3 +5,7 @@ def eye(n):
     return x
 
 print(eye(5))
+
+
+print('วันนี้กินอะไรดี')
+
